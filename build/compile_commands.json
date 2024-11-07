@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/guilherme/VsProjects/SO/Atividade01/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ATIVIDADE01.dir/main.cpp.o -c /home/guilherme/VsProjects/SO/Atividade01/main.cpp",
+  "file": "/home/guilherme/VsProjects/SO/Atividade01/main.cpp"
+}
+]

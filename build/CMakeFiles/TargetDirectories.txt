@@ -1,0 +1,3 @@
+/home/guilherme/VsProjects/SO/Atividade01/build/CMakeFiles/ATIVIDADE01.dir
+/home/guilherme/VsProjects/SO/Atividade01/build/CMakeFiles/edit_cache.dir
+/home/guilherme/VsProjects/SO/Atividade01/build/CMakeFiles/rebuild_cache.dir
